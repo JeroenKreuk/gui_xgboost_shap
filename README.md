@@ -2,6 +2,13 @@
 
 This project implements an XGBoost Auto Tuner using Python and the Tkinter GUI toolkit. The application allows users to load a dataset, perform data preprocessing tasks, and optimize hyperparameters for an XGBoost model. The XGBoost model is trained, evaluated, and its results are displayed using SHAP (SHapley Additive exPlanations) plots.
 
+Feature analyses
+![image](https://github.com/JeroenKreuk/gui_xgboost_shap/assets/85551796/d8ead68b-38a1-4f51-9ad6-f000eff1d082)
+
+Tkinter GUI
+![image](https://github.com/JeroenKreuk/gui_xgboost_shap/assets/85551796/9ab27f4a-df06-4571-9f9d-d3eb85d2f779)
+
+
 ## Features
 
 - **Dataset Loading**: Load a CSV dataset and display basic information about the data, including the total number of observations.
